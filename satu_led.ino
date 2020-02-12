@@ -42,3 +42,4 @@ void loop() {
   distance= duration*0.034/2;
   return distance;
 }
+delay(1000);
